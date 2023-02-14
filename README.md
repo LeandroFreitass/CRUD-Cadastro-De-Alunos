@@ -1,2 +1,2 @@
-# Agenda-Projeto
-projeto feito para um desafio de estagio onde é para ser uma agenda feita com asp net core
+# CRUD-Cadastro-de-Alunos
+Usando react como frontend e o backend com asp net core é projeto desenvolvido no curso tecnico que tem como objetivo cadastrar cursos e alunos  
